@@ -4,9 +4,9 @@
 
 @section('content')
     <h1>
-        <a href="https://github.com/Karl969/Laravel-Midterm-Project" target="_blank">1st Laboratory</a>
+        <a href="https://github.com/Karl969/Laravel-Midterm-Project" target="_blank">Laboratory 1</a>
     </h1>
-    <h2>This includes the installation of Laravel, and developing routes and views.</h2>
+    <h2>This section includes the installation of Laravel, and developing routes and views.</h2>
     <p>
         This section includes the lessons learned in using Laravel as a framework for developing websites. 
         I installed Laravel along with its dependencies, ensuring that my environment is set up properly with the parameters I chose. 

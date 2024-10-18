@@ -58,7 +58,7 @@
                         <a class="nav-link" href="/routes">Routes</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/homepage">Homepage</a>
+                        <a class="nav-link" href="/layout">Layout</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="/">Portfolio</a>
