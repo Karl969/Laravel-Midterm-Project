@@ -8,6 +8,40 @@
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
 </head>
+
+<style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 21px
+        }
+        .navbar {
+            background-color: #007bff; 
+        }
+
+        .navbar-brand,
+        .nav-link {
+            color: gray!important;
+        }
+
+        .nav-link:hover {
+            color: black!important; 
+        }
+
+        footer {
+            background-color: #f8f9fa; 
+            padding: 10px 0; 
+        }
+
+        footer .text-center {
+            color: #6c757d; 
+        }
+
+        h1 {
+            font-size: 30px;  
+            font-style: bold;
+        }
+            </style>
+
 <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <div class="container">
@@ -27,7 +61,7 @@
                         <a class="nav-link" href="/homepage">Homepage</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/portfolio">Portfolio</a>
+                        <a class="nav-link" href="/">Portfolio</a>
                     </li>
                 </ul>
             </div>
