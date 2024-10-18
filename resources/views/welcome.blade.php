@@ -4,7 +4,7 @@
 
 @section('content')
     <h1>
-        <a href="https://github.com/Karl969/Laravel-Midterm-Project" target="_blank">Laboratory 1</a>
+        <a href="https://github.com/Karl969/Laravel-Midterm-Project/tree/main/Docs" target="_blank">Laboratory 1</a>
     </h1>
     <h2>This section includes the installation of Laravel, and developing routes and views.</h2>
     <p>
