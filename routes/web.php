@@ -20,4 +20,8 @@ Route::middleware(['log.requests'])->group(function () {
     Route::get('/routes', function () {
         return view('Routes'); 
     });
+
+    Route::get('/portfolio', function () {
+        return view('Portfolio'); 
+    });
 });
