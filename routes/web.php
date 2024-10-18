@@ -16,4 +16,8 @@ Route::middleware(['log.requests'])->group(function () {
     Route::get('/layout', function () {
         return view('Layout'); 
     });
+
+    Route::get('/routes', function () {
+        return view('Routes'); 
+    });
 });
