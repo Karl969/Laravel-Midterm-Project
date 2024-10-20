@@ -3,6 +3,7 @@
 @section('title', 'Middleware')
 
 @section('content')
+<link rel="stylesheet" href="{{ asset('assets/css/Webpage.css') }}">
     <h1>
         <a href="https://github.com/jhona06/jhona" target="_blank"><h1>Laboratory 4</h1></a>
     </h1>

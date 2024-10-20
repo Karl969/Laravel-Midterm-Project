@@ -1,6 +1,7 @@
 @extends('Components.layout')
 @section('title', 'Portfolio Main')
 @section('content')
+<link rel="stylesheet" href="{{ asset('assets/css/Webpage.css') }}">
 <div id="about" class="about-section">
     <h1 class="about-title">About Me</h1>
     <div class="about-content">
@@ -8,7 +9,7 @@
         </div>
         <div class="about-details">
             <p class="about-description">Karl Christian O. Carlos</p>
-            <h3>Education</h3>
+            <h2>Education</h2>
             <ul>
                 <li>Albay Central School (Elementary)</li>
                 <li>Divine Word College of Legazpi (Junior High School)</li>
@@ -16,9 +17,9 @@
                 <li>Bicol University College of Science - Bachelor of Information Technology (College)</li>
             </ul>
             </div>
-            <h2>Interests and Hobbies</h2>
+            <h3>Interests and Hobbies</h3>
             <ul>
-                <li>Programming and Development</li>
+                <li>Programming and Website Development</li>
                 <li>PC Gaming</li>
                 <li>Driving and Automobiles</li>
             </ul>

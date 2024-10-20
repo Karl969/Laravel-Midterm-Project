@@ -3,6 +3,7 @@
 @section('title', 'Views and Routes')
 
 @section('content')
+<link rel="stylesheet" href="{{ asset('assets/css/Webpage.css') }}">
     <h1>
         <a href="https://github.com/Karl969/Laravel-Midterm-Project/tree/main/Docs" target="_blank">Laboratory 1</a>
     </h1>

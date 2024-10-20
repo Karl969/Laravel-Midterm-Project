@@ -10,37 +10,38 @@
 </head>
 
 <style>
-        body {
-            font-family: Arial, Helvetica, sans-serif;
-            font-size: 21px
-        }
-        .navbar {
-            background-color: #007bff; 
-        }
+    body {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 21px;
+    }
 
-        .navbar-brand,
-        .nav-link {
-            color: gray!important;
-        }
+    .navbar {
+        background-color: green !important;
+    }
 
-        .nav-link:hover {
-            color: black!important; 
-        }
+    .navbar-brand,
+    .nav-link {
+        color: white!important;
+    }
 
-        footer {
-            background-color: #f8f9fa; 
-            padding: 10px 0; 
-        }
+    .nav-link:hover {
+        color: black !important; 
+    }
 
-        footer .text-center {
-            color: #6c757d; 
-        }
+    footer {
+        background-color: green !important;
+        padding: 10px 0;
+    }
 
-        h1 {
-            font-size: 30px;  
-            font-style: bold;
-        }
-            </style>
+    footer .text-center {
+        color: black!important;
+    }
+
+    h1 {
+        font-size: 30px;
+        font-weight: bold; 
+    }
+</style>
 
 <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
