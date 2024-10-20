@@ -8,7 +8,10 @@
         <div class="about-image">
         </div>
         <div class="about-details">
+        <div class="about-section">
             <p class="about-description">Karl Christian O. Carlos</p>
+            <img src="{{ asset('assets/images/Portfolio_Pic.png') }}" alt="Layout" style="width: 100px;">
+        </div>
             <h2>Education</h2>
             <ul>
                 <li>Albay Central School (Elementary)</li>
