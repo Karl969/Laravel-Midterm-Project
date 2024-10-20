@@ -24,7 +24,7 @@
                 <li>Driving and Automobiles</li>
             </ul>
             <br><br>
-            <p>E-Mail: <a href="kcoc2022-6285-95624@bicol-u.edu.ph">kcoc2022-6285-95624@bicol-u.edu.ph/<a></p>
+            <p>E-Mail: <a href="kcoc2022-6285-95624@bicol-u.edu.ph">kcoc2022-6285-95624@bicol-u.edu.ph<a></p>
             <p>Phone Number: (+63) 9994733373</p>
             <p>Facebook:<a href=https://www.facebook.com/KarlForPresident>www.facebook.com<a></p>
         </div>

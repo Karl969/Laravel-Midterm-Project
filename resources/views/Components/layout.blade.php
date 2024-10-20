@@ -11,7 +11,7 @@
 
 <style>
     body {
-        font-family: Arial, Helvetica, sans-serif;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
         font-size: 21px;
     }
 
@@ -53,7 +53,7 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="/middleware">Middleware</a>
+                        <a class="nav-link" href="/">Individual Laboratory</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="/routes">Routes</a>
@@ -62,7 +62,7 @@
                         <a class="nav-link" href="/layout">Layout</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/">Individual Laboratory</a>
+                        <a class="nav-link" href="/middleware">Middleware</a>
                     </li>
                 </ul>
             </div>
